@@ -1,4 +1,4 @@
-# This is a python code for reversing a strand of DNA
+# This is a python code for reversing a strand of DNA after taking an input DNA strand
 
 # Prompt the user to enter a nucleotide sequence
 dna_strand = input("Enter your nucleotide sequence: ")
